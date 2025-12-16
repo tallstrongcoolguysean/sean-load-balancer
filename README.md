@@ -21,7 +21,5 @@ const result = seanLoadBalancer({
 
 ## Requirements
 
-- **things**: An array of things you desperately need balanced. Could be servers, could be your life choices.
-- **apiKey**: A SUPER SECRET api key that unlocks the full potential of the load distribution matrix.
-
-Patent pending.
+- **things**: An array of things you need balanced
+- **apiKey**: api key that unlocks the full potential of the load distribution matrix.
